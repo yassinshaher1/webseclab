@@ -8,6 +8,10 @@
     "require": {
         "php": "^8.2",
         "laravel/framework": "^11.31",
+<<<<<<< HEAD
+=======
+        "laravel/socialite": "^5.19",
+>>>>>>> 017e234bbb374c0de28c34ce493bc949d1b6162e
         "laravel/tinker": "^2.9",
         "spatie/laravel-permission": "^6.16"
     },
